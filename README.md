@@ -36,18 +36,19 @@ With the books help I implemented:
 
 ## 🔑 Usage <a name="usage"></a>
 
-**Landing Page**<br>
+### Landing Page <br>
 <img src="/assets/home.png"><br>
-**Signing Up**<br>
+### Signing Up<br>
 <img src="/assets/signup.png"><br>
-**Logging In**<br>
+### Logging In<br>
 <img src="/assets/login.png"><br>
-**Creating a Snippet**<br>
+### Creating a Snippet<br>
 <img src="/assets/create.png"><br>
-**Logged Out**<br>
+### Logged Out<br>
 <img src="/assets/logout.png"><br>
-**GIF: ONLY Authenticated Users can create Snippets Page**<br>
+### GIF: ONLY Authenticated Users can create Snippets Page<br>
 <img src="/assets/redirect.gif"><br>
+ >GIF shows a user trying to access the creat page directly through the url path without being signed in. Unfortunately for the user (fortunate for me), the user will be redirected to the login page, so the user can sign in.
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
