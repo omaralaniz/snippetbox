@@ -37,7 +37,7 @@ With the books help I implemented:
 ## 🔑 Usage <a name="usage"></a>
 <img src="/assets/create.png">
 
-<img src="/assets/redirecy.png">
+<img src="/assets/redirect.gif">
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
