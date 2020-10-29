@@ -35,9 +35,19 @@ With the books help I implemented:
 
 
 ## 🔑 Usage <a name="usage"></a>
-<img src="/assets/create.png">
 
-<img src="/assets/redirect.gif">
+**Landing Page**<br>
+<img src="/assets/home.png"><br>
+**Signing Up**<br>
+<img src="/assets/signup.png"><br>
+**Logging In**<br>
+<img src="/assets/login.png"><br>
+**Creating a Snippet**<br>
+<img src="/assets/create.png"><br>
+**Logged Out**<br>
+<img src="/assets/logout.png"><br>
+**GIF: ONLY Authenticated Users can create Snippets Page**<br>
+<img src="/assets/redirect.gif"><br>
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
